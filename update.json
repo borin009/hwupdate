@@ -1,11 +1,4 @@
 {
   "version": "1.0.1",
-  "changelog": [
-    "Initial release",
-    "Added fastboot detection",
-    "Improved device info speed"
-  ],
-  "download_url": https://github.com/borin009/hwupdate/releases/download/v1.0.1/hwupdate.exe,
-  "force_update": false
+  "url": "https://raw.githubusercontent.com/borin009/hwupdate/main/main.py"
 }
-
