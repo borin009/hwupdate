@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "changelog": [
+    "Initial release",
+    "Added fastboot detection",
+    "Improved device info speed"
+  ],
+  "download_url": "https://raw.githubusercontent.com/borin009/hwupdate/update.json",
+  "force_update": false
+}
